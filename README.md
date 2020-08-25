@@ -8,9 +8,9 @@ I am recently starting to work with single-cell analyses, something that is take
 ## Table of Contents
 
 * [About](#About)
-* [Python tutorials](#Python tutorials)
-* [R tutorial](# R tutorial)
-* [Other tutorials](#Other tutorials)
+* [Python tutorials](#Python-tutorials)
+* [R tutorial](# R-tutorial)
+* [Other tutorials](#Other-tutorials)
 * [Contact](#Contact)
 * [Acknowledgements](#acknowledgements)
 
