@@ -20,7 +20,7 @@ I am recently starting to work with single-cell analyses, something that is take
 ## Python tutorials
 
 *[Scanpy](https://scanpy.readthedocs.io/en/stable/#) a toolkit for preprocessing, visualizing, clustering, trajectory inference and differential expression testing of scRNA-seq data.
-*[Single-cell-tutorial](https://github.com/theislab/single-cell-tutorial). Current best-practices in single-cell RNA-seq: a tutorial,[link to the paper]((https://doi.org/10.15252/msb.20188746)).
+*[Single-cell-tutorial](https://github.com/theislab/single-cell-tutorial)(https://doi.org/10.15252/msb.20188746). Current best-practices in single-cell RNA-seq: a tutorial.
 
 
 
