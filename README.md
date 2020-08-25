@@ -30,7 +30,7 @@ I am recently starting to work with single-cell analyses, something that is take
 
 
 ## Contact
-If you want to contribute to this list or you have any issue regarding it do not hesitate to contacte me.                            
+If you want to contribute to this list or you have any issue regarding it, do not hesitate to contacte me.                            
 Noel: ncabanas@iibiomedicas.unam.mx
 
 
