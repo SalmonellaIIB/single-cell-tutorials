@@ -29,7 +29,7 @@ a scalable toolkit for analyzing single-cell gene expression data.It includes pr
 
 
 ## Other tutorials
-[Scanpy in R](https://theislab.github.io/scanpy-in-R/#content) a combination of R and scanpy startegies.
+[Scanpy in R](https://theislab.github.io/scanpy-in-R/#content) a combination of scanpy and R strategies.
 
 
 ## Contact
