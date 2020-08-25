@@ -8,19 +8,19 @@ I am recently starting to work with single-cell analyses, something that is take
 ## Table of Contents
 
 * [About](#about-the-project)
-  * [Built With](#built-with)
-* [Python tutorials](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [R tutorial](#usage)
-
-
-
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
+* [Python tutorials](#Python)
+* [R tutorial](#R)
+* [Other tutorials](#Other)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
 
-## Installation
+## About
+
+## Python tutorials
+
+## R tutorial
+
+## Other tutorials
+
+## Acknowledgements
