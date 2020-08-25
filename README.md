@@ -38,7 +38,7 @@ Noel: ncabanas@iibiomedicas.unam.mx
 
 
 ## Acknowledgements
-If the tutorials were useful please acknowledge the work of their creatrors citing their papers.
+If the tutorials are useful please acknowledge the work of their creatrors citing their papers.
 You can find how to cite them in the links.
 
 
