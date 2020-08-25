@@ -22,7 +22,7 @@ Scanpy – Single-Cell Analysis in Python
 
 a scalable toolkit for analyzing single-cell gene expression data.It includes preprocessing, visualization, clustering, trajectory inference and differential expression testing
 
-[Scanpy – Single-Cell Analysis in Python](https://scanpy.readthedocs.io/en/stable/#) a scalable toolkit for analyzing single-cell gene expression data.It includes preprocessing, visualization, clustering, trajectory inference and differential expression testing.
+[Scanpy](https://scanpy.readthedocs.io/en/stable/#) a toolkit for preprocessing, visualization, clustering, trajectory inference and differential expression testing of single-cell RNA-seq data.
 
 ## R tutorial
 [Seurat](https://satijalab.org/seurat/) an R package designed for QC, analysis, and exploration of single-cell RNA-seq data.
