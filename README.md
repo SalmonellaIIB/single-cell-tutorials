@@ -18,14 +18,16 @@ I am recently starting to work with single-cell analyses, something that is take
 ## About
 
 ## Python tutorials
-###[Seurat](https://satijalab.org/seurat/)
-Seurat is an R package designed for QC, analysis, and exploration of single-cell RNA-seq data.
+Scanpy – Single-Cell Analysis in Python
 
+a scalable toolkit for analyzing single-cell gene expression data.It includes preprocessing, visualization, clustering, trajectory inference and differential expression testing
 
-[Seurat](https://satijalab.org/seurat/) Seurat is an R package designed for QC, analysis, and exploration of single-cell RNA-seq data.
-
+[Scanpy – Single-Cell Analysis in Python](https://scanpy.readthedocs.io/en/stable/#) a scalable toolkit for analyzing single-cell gene expression data.It includes preprocessing, visualization, clustering, trajectory inference and differential expression testing.
 
 ## R tutorial
+[Seurat](https://satijalab.org/seurat/) an R package designed for QC, analysis, and exploration of single-cell RNA-seq data.
+
+
 
 ## Other tutorials
 
