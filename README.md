@@ -9,7 +9,7 @@ I am recently starting to work with single-cell analyses, something that is take
 
 * [About](#About)
 * [Python tutorials](#Python-tutorials)
-* [R tutorial](# R-tutorial)
+* [R tutorial](#R-tutorial)
 * [Other tutorials](#Other-tutorials)
 * [Contact](#Contact)
 * [Acknowledgements](#acknowledgements)
