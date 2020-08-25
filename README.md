@@ -19,7 +19,7 @@ I am recently starting to work with single-cell analyses, something that is take
 
 ## Python tutorials
 
-[Scanpy](https://scanpy.readthedocs.io/en/stable/#) a toolkit for preprocessing, visualizing, clustering, trajectory inference and differential expression testing of single-cell RNA-seq data.
+[Scanpy](https://scanpy.readthedocs.io/en/stable/#) a toolkit for preprocessing, visualizing, clustering, trajectory inference and differential expression testing of scRNA-seq data.
 
 ## R tutorial
 [Seurat](https://satijalab.org/seurat/) an R package designed for QC, analysis, and exploration of single-cell RNA-seq data.
