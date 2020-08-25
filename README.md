@@ -18,9 +18,19 @@ I am recently starting to work with single-cell analyses, something that is take
 ## About
 
 ## Python tutorials
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 ## R tutorial
 
 ## Other tutorials
 
+## Contact
+If you want to contribute to this list or you have any issue contacte me.
+Noel: ncabanas@iibiomedicas.unam.mx
+
+
 ## Acknowledgements
+If the tutorials were useful please acknowledge the work of their creatrors citing their papers.
+You can find how to cite them in the links.
+
+
