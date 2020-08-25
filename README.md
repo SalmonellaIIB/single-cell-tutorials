@@ -18,9 +18,6 @@ I am recently starting to work with single-cell analyses, something that is take
 ## About
 
 ## Python tutorials
-Scanpy – Single-Cell Analysis in Python
-
-a scalable toolkit for analyzing single-cell gene expression data.It includes preprocessing, visualization, clustering, trajectory inference and differential expression testing
 
 [Scanpy](https://scanpy.readthedocs.io/en/stable/#) a toolkit for preprocessing, visualizing, clustering, trajectory inference and differential expression testing of single-cell RNA-seq data.
 
