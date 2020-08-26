@@ -24,7 +24,7 @@ I am recently starting to work with single-cell analyses, something that is take
 
 * [kallisto | bustools](https://www.kallistobus.tools/) a workflow for pre-processing single-cell RNA-seq data.
 
-* [pySCENIC](https://pyscenic.readthedocs.io/en/latest/tutorial.html) a workflow for pre-processing single-cell RNA-seq data.
+* [pySCENIC](https://pyscenic.readthedocs.io/en/latest/tutorial.html) a number of tutorials available to demonstrate how to use pySCENIC.
 
 
 ## R tutorials
