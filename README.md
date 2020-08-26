@@ -7,15 +7,12 @@ I am recently starting to work with single-cell analyses, something that it has 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About](#About)
 * [Python tutorials](#Python-tutorials)
 * [R tutorial](#R-tutorial)
 * [Other tutorials](#Other-tutorials)
 * [Contact](#Contact)
 * [Acknowledgements](#acknowledgements)
 
-
-## About
 
 ## Python tutorials
 
