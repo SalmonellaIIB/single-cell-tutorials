@@ -20,6 +20,8 @@ I am recently starting to work with single-cell analyses, something that it has 
 
 * [Single-cell-tutorial.](https://github.com/theislab/single-cell-tutorial)(https://doi.org/10.15252/msb.20188746). Current best-practices in single-cell RNA-seq: a tutorial.
 
+* [ NBISweden/workshop-scRNAseq.](https://nbviewer.jupyter.org/github/NBISweden/workshop-scRNAseq/tree/master/labs/compiled/).Single-cell RNA-seq tutorials using different tools: Scanpy, Scater, Seurat, Slingshot .
+
 * [kallisto | bustools.](https://www.kallistobus.tools/) a workflow for pre-processing single-cell RNA-seq data.
 
 * [pySCENIC.](https://pyscenic.readthedocs.io/en/latest/tutorial.html) a number of tutorials available to demonstrate how to use pySCENIC.
