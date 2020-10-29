@@ -16,26 +16,26 @@ I am recently starting to work with single-cell analyses, something that it has 
 
 ## Python tutorials
 
-* [Scanpy](https://scanpy.readthedocs.io/en/stable/#) a toolkit for preprocessing, visualizing, clustering, trajectory inference and differential expression testing of scRNA-seq data.
+* [Scanpy.](https://scanpy.readthedocs.io/en/stable/#) a toolkit for preprocessing, visualizing, clustering, trajectory inference and differential expression testing of scRNA-seq data.
 
-* [Single-cell-tutorial](https://github.com/theislab/single-cell-tutorial)(https://doi.org/10.15252/msb.20188746). Current best-practices in single-cell RNA-seq: a tutorial.
+* [Single-cell-tutorial.](https://github.com/theislab/single-cell-tutorial)(https://doi.org/10.15252/msb.20188746). Current best-practices in single-cell RNA-seq: a tutorial.
 
-* [kallisto | bustools](https://www.kallistobus.tools/) a workflow for pre-processing single-cell RNA-seq data.
+* [kallisto | bustools.](https://www.kallistobus.tools/) a workflow for pre-processing single-cell RNA-seq data.
 
-* [pySCENIC](https://pyscenic.readthedocs.io/en/latest/tutorial.html) a number of tutorials available to demonstrate how to use pySCENIC.
+* [pySCENIC.](https://pyscenic.readthedocs.io/en/latest/tutorial.html) a number of tutorials available to demonstrate how to use pySCENIC.
 
 
 ## R tutorials
-* [Seurat](https://satijalab.org/seurat/) an R package designed for QC, analysis, and exploration of single-cell RNA-seq data.
+* [Seurat.](https://satijalab.org/seurat/) an R package designed for QC, analysis, and exploration of single-cell RNA-seq data.
 
-* [UC Davis scRNA-Seq Workshop](https://ucdavis-bioinformatics-training.github.io/2019-single-cell-RNA-sequencing-Workshop-UCD_UCSF/) 2019 single cell RNA sequencing Workshop @ UCD AND UCSF.
+* [UC Davis scRNA-Seq Workshop.](https://ucdavis-bioinformatics-training.github.io/2019-single-cell-RNA-sequencing-Workshop-UCD_UCSF/) 2019 single cell RNA sequencing Workshop @ UCD AND UCSF.
 
-* [UCLA Seurat workshop](https://qcb.ucla.edu/collaboratory-2/workshops/w20-single-cell-rna-seq/#toggle-id-2) This workshop demonstrates the basic concepts and algorithms for single-cell RNA-seq analysis.
+* [UCLA Seurat workshop.](https://qcb.ucla.edu/collaboratory-2/workshops/w20-single-cell-rna-seq/#toggle-id-2) This workshop demonstrates the basic concepts and algorithms for single-cell RNA-seq analysis.
 
 
 
 ## Other tutorials
-[Scanpy in R](https://theislab.github.io/scanpy-in-R/#content) a combination of scanpy and R strategies.
+[Scanpy in R.](https://theislab.github.io/scanpy-in-R/#content) a combination of scanpy and R strategies.
 
 
 ## Contact
