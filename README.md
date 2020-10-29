@@ -28,6 +28,8 @@ I am recently starting to work with single-cell analyses, something that it has 
 ## R tutorials
 * [Seurat](https://satijalab.org/seurat/) an R package designed for QC, analysis, and exploration of single-cell RNA-seq data.
 
+* [UC Davis scRNA-Seq Workshop](https://ucdavis-bioinformatics-training.github.io/2019-single-cell-RNA-sequencing-Workshop-UCD_UCSF/) 2019 single cell RNA sequencing Workshop @ UCD AND UCSF.
+
 * [UCLA Seurat workshop](https://qcb.ucla.edu/collaboratory-2/workshops/w20-single-cell-rna-seq/#toggle-id-2) This workshop demonstrates the basic concepts and algorithms for single-cell RNA-seq analysis.
 
 
