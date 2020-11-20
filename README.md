@@ -37,6 +37,8 @@ I am recently starting to work with single-cell analyses, something that it has 
 
 * [UCLA Seurat workshop.](https://qcb.ucla.edu/collaboratory-2/workshops/w20-single-cell-rna-seq/#toggle-id-2) This workshop demonstrates the basic concepts and algorithms for single-cell RNA-seq analysis.
 
+* [scRNA-seq analysis workflow.](https://romanhaa.github.io/projects/scrnaseq_workflow/) This is an example scRNA-seq workflow based on the Seurat analysis framework which goes from transcript count tables until cell type annotation.
+
 
 
 ## Other tutorials
